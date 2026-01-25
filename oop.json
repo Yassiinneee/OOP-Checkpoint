@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 15
+    },
+    {
+      "id": 3,
+      "name": "keyboard",
+      "price": 20
+    }
+  ],
+  "shoppingCart": {
+    "items": [
+      {
+        "productId": 1,
+        "quantity": 1
+      },
+      {
+        "productId": 2,
+        "quantity": 2
+      },
+      {
+        "productId": 3,
+        "quantity": 1
+      }
+    ]
+  }
+}
